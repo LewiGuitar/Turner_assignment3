@@ -43,8 +43,7 @@ public class CAI5 {
 					numbers = generateQuestionArgument(difficulty);
 				}
 				
-				askQuestion(numbers, type);
-				
+				askQuestion(numbers, type);				
 			
 				answer = readResponse();	
 
